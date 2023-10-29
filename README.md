@@ -1,2 +1,2 @@
 # SergioTobonStudio
-Beauty Studio website
+Beauty Studio webpage 
